@@ -1,0 +1,2 @@
+# Mano
+Progetto mano robotica
